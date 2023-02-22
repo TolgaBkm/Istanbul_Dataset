@@ -26,3 +26,7 @@ To run the notebook, following libraries are required:
 - scikit-image == 0.18.1
 - GDAL == 3.2.1
 - tifffile == 2021.2.1
+
+# Citation
+
+Please cite the following study if you make use of our weights: [Paper](https://doi.org/10.1016/j.eswa.2022.117346)
